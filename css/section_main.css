@@ -1,0 +1,2949 @@
+@media (max-width: 320px) {
+
+    #teclado01 {
+        display: block;
+        width: 100%;
+    }
+    
+    #teclado02 {
+        display: none;
+    }
+
+    #teclado03 {
+        display: none;
+    }
+
+    #teclado04 {
+
+        display: none;
+
+    }
+
+    #teclado05 {
+
+        display: none;
+
+    }
+
+    #teclado06 {
+
+        display: none;
+
+    }
+
+    #teclado07 {
+
+        display: none;
+
+    }
+
+    #procesador01 {
+
+        display: block;
+        width: 100%;
+
+    }
+    
+    #procesador02 {
+
+        display: none;
+
+    }
+
+    #procesador03 {
+
+        display: none;
+
+    }
+
+    #procesador04 {
+
+        display: none;
+
+    }
+
+    #procesador05 {
+
+        display: none;
+
+    }
+
+    #procesador06 {
+
+        display: none;
+
+    }
+
+    #procesador07 {
+
+        display: none;
+
+    }
+
+    #ram01{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #ram02{
+
+        display: none;
+
+    }
+
+    #ram03{
+
+        display: none;
+
+    }
+    
+    #ram04{
+
+        display: none;
+
+    }
+
+    #ram05{
+
+        display: none;
+
+    }
+
+    #ram06{
+
+        display: none;
+
+    }
+
+    #ram07{
+
+        display: none;
+
+    }
+
+    #video01{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #video02{
+
+        display: none;
+
+    }
+
+    #video03{
+
+        display: none;
+
+    }
+
+    #video04{
+
+        display: none;
+
+    }
+
+    #video05{
+
+        display: none;
+
+    }
+
+    #video06{
+
+        display: none;
+
+    }
+
+    #video07{
+
+        display: none;
+
+    }
+
+    #disco01 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco02 {
+
+        display: none;
+
+    }
+
+    #disco03 {
+
+        display: none;
+
+    }
+
+    #disco04 {
+
+        display: none;
+
+    }
+
+    #disco05 {
+
+        display: none;
+
+    }
+
+    #disco06 {
+
+        display: none;
+
+    }
+
+    #disco07 {
+
+        display: none;
+
+    }
+
+    #case01{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #case02{
+
+        display: none;
+
+    }
+
+    #case03{
+
+        display: none;
+
+    }
+
+    #case04{
+
+        display: none;
+
+    }
+
+    #case05{
+
+        display: none;
+
+    }
+
+    #case06{
+
+        display: none;
+
+    }
+
+    #case07{
+
+        display: none;
+
+    }
+
+    #monitor01 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor02 {
+
+        display: none;
+
+    }
+
+    #monitor03 {
+
+        display: none;
+
+    }
+
+    #monitor04 {
+
+        display: none;
+
+    }
+
+    #monitor05 {
+
+        display: none;
+
+    }
+
+    #monitor06 {
+
+        display: none;
+
+    }
+
+    #monitor07 {
+
+        display: none;
+
+    }
+
+    #placa01 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa02 {
+
+        display: none;
+
+    }
+
+    #placa03 {
+
+        display: none;
+
+    }
+
+    #placa04 {
+
+        display: none;
+
+    }
+
+    #placa05 {
+
+        display: none;
+
+    }
+
+    #placa06 {
+
+        display: none;
+
+    }
+
+    #placa07 {
+
+        display: none;
+
+    }
+
+    #tec01 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec02 {
+
+        display: none;
+
+    }
+
+    #tec03 {
+
+        display: none;
+
+    }
+
+    #tec04 {
+
+        display: none;
+
+    }
+
+    #tec05 {
+
+        display: none;
+
+    }
+
+    #tec06 {
+
+        display: none;
+
+    }
+
+    #tec07 {
+
+        display: none;
+
+    }
+
+    #mouse01{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #mouse02{
+
+        display: none;
+
+    }
+
+    #mouse03{
+
+        display: none;
+
+    }
+
+    #mouse04{
+
+        display: none;
+
+    }
+
+    #mouse05{
+
+        display: none;
+
+    }
+
+    #mouse06{
+
+        display: none;
+
+    }
+
+    #mouse07{
+
+        display: none;
+
+    }
+
+}
+
+@media (min-width: 321px) and (max-width: 375px) {
+
+    #teclado01 {
+
+        display: none;
+
+    }
+
+    #teclado02 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #teclado03 {
+
+        display: none;
+
+    }
+
+    #teclado04 {
+
+        display: none;
+
+    }
+
+    #teclado05 {
+
+        display: none;
+
+    }
+
+    #teclado06 {
+
+        display: none;
+
+    }
+
+    #teclado07 {
+
+        display: none;
+
+    }
+
+    #procesador01 {
+
+        display: none;
+
+    }
+    
+    #procesador02 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #procesador03 {
+
+        display: none;
+
+    }
+
+    #procesador04 {
+
+        display: none;
+
+    }
+
+    #procesador05 {
+
+        display: none;
+
+    }
+
+    #procesador06 {
+
+        display: none;
+
+    }
+
+    #procesador07 {
+
+        display: none;
+
+    }
+
+    #ram01{
+
+        display: none;
+
+    }
+
+    #ram02{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #ram03{
+
+        display: none;
+
+    }
+    
+    #ram04{
+
+        display: none;
+
+    }
+
+    #ram05{
+
+        display: none;
+
+    }
+
+    #ram06{
+
+        display: none;
+
+    }
+
+    #ram07{
+
+        display: none;
+
+    }
+
+    #video01{
+
+        display: none;
+
+    }
+
+    #video02{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #video03{
+
+        display: none;
+
+    }
+
+    #video04{
+
+        display: none;
+
+    }
+
+    #video05{
+
+        display: none;
+
+    }
+
+    #video06{
+
+        display: none;
+
+    }
+
+    #video07{
+
+        display: none;
+
+    }
+
+    #disco01 {
+
+        display: none;
+
+    }
+
+    #disco02 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco03 {
+
+        display: none;
+
+    }
+
+    #disco04 {
+
+        display: none;
+
+    }
+
+    #disco05 {
+
+        display: none;
+
+    }
+
+    #disco06 {
+
+        display: none;
+
+    }
+
+    #disco07 {
+
+        display: none;
+
+    }
+
+    #case01{
+
+        display: none;
+
+    }
+
+    #case02{
+ 
+        display: block;
+        width: 100%;
+
+    }
+
+    #case03{
+
+        display: none;
+
+    }
+
+    #case04{
+
+        display: none;
+
+    }
+
+    #case05{
+
+        display: none;
+
+    }
+
+    #case06{
+
+        display: none;
+
+    }
+
+    #case07{
+
+        display: none;
+
+    }
+
+    #monitor01 {
+
+        display: none;
+
+    }
+
+    #monitor02 {
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor03 {
+
+        display: none;
+
+    }
+
+    #monitor04 {
+
+        display: none;
+
+    }
+
+    #monitor05 {
+
+        display: none;
+
+    }
+
+    #monitor06 {
+
+        display: none;
+
+    }
+
+    #monitor07 {
+
+        display: none;
+
+    }
+
+    #placa01 {
+
+        display: none;
+
+    }
+
+    #placa02 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa03 {
+
+        display: none;
+
+    }
+
+    #placa04 {
+
+        display: none;
+
+    }
+
+    #placa05 {
+
+        display: none;
+
+    }
+
+    #placa06 {
+
+        display: none;
+
+    }
+
+    #placa07 {
+
+        display: none;
+
+    }
+
+    #tec01 {
+
+        display: none;
+
+    }
+
+    #tec02 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec03 {
+
+        display: none;
+
+    }
+
+    #tec04 {
+
+        display: none;
+
+    }
+
+    #tec05 {
+
+        display: none;
+
+    }
+
+    #tec06 {
+
+        display: none;
+
+    }
+
+    #tec07 {
+
+        display: none;
+
+    }
+
+    #mouse01{
+
+        display: none;
+
+    }
+
+    #mouse02{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #mouse03{
+
+        display: none;
+
+    }
+
+    #mouse04{
+
+        display: none;
+
+    }
+
+    #mouse05{
+
+        display: none;
+
+    }
+
+    #mouse06{
+
+        display: none;
+
+    }
+
+    #mouse07{
+
+        display: none;
+
+    }
+
+}
+
+@media (min-width: 375px) and (max-width: 425px) {
+
+    #teclado01 {
+
+        display: none;
+
+    }
+
+    #teclado02 {
+
+        display: none;
+
+    }
+
+    #teclado03 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #teclado04 {
+
+        display: none;
+
+    }
+
+    #teclado05 {
+
+        display: none;
+
+    }
+
+    #teclado06 {
+
+        display: none;
+
+    }
+
+    #teclado07 {
+
+        display: none;
+
+    }
+
+    #procesador01 {
+
+        display: none;
+
+    }
+    
+    #procesador02 {
+
+        display: none;
+
+    }
+
+    #procesador03 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #procesador04 {
+
+        display: none;
+
+    }
+
+    #procesador05 {
+
+        display: none;
+
+    }
+
+    #procesador06 {
+
+        display: none;
+
+    }
+
+    #procesador07 {
+
+        display: none;
+
+    }
+
+    #ram01{
+
+        display: none;
+
+    }
+
+    #ram02{
+
+        display: none;
+
+    }
+
+    #ram03{
+
+        display: block;
+        width: 100%;
+
+    }
+    
+    #ram04{
+
+        display: none;
+
+    }
+
+    #ram05{
+
+        display: none;
+
+    }
+
+    #ram06{
+
+        display: none;
+
+    }
+
+    #ram07{
+
+        display: none;
+
+    }
+
+    #video01{
+
+        display: none;
+
+    }
+
+    #video02{
+
+        display: none;
+
+    }
+
+    #video03{
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #video04{
+
+        display: none;
+
+    }
+
+    #video05{
+
+        display: none;
+
+    }
+
+    #video06{
+
+        display: none;
+
+    }
+
+    #video07{
+
+        display: none;
+
+    }
+
+    #disco01 {
+
+        display: none;
+
+    }
+
+    #disco02 {
+
+        display: none;
+
+    }
+
+    #disco03 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco04 {
+
+        display: none;
+
+    }
+
+    #disco05 {
+
+        display: none;
+
+    }
+
+    #disco06 {
+
+        display: none;
+
+    }
+
+    #disco07 {
+
+        display: none;
+
+    }
+
+    #case01{
+
+        display: none;
+
+    }
+
+    #case02{
+ 
+        display: none;
+
+    }
+
+    #case03{
+
+        display: block;
+        width: 100%;
+
+
+    }
+
+    #case04{
+
+        display: none;
+
+    }
+
+    #case05{
+
+        display: none;
+
+    }
+
+    #case06{
+
+        display: none;
+
+    }
+
+    #case07{
+
+        display: none;
+
+    }
+
+    #monitor01 {
+
+        display: none;
+
+    }
+
+    #monitor02 {
+        
+        display: none;
+
+    }
+
+    #monitor03 {
+ 
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor04 {
+
+        display: none;
+
+    }
+
+    #monitor05 {
+
+        display: none;
+
+    }
+
+    #monitor06 {
+
+        display: none;
+
+    }
+
+    #monitor07 {
+
+        display: none;
+
+    }
+
+    #placa01 {
+
+        display: none;
+
+    }
+
+    #placa02 {
+
+        display: none;
+
+    }
+
+    #placa03 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa04 {
+
+        display: none;
+
+    }
+
+    #placa05 {
+
+        display: none;
+
+    }
+
+    #placa06 {
+
+        display: none;
+
+    }
+
+    #placa07 {
+
+        display: none;
+
+    }
+
+    #tec01 {
+
+        display: none;
+
+    }
+
+    #tec02 {
+
+        display: none;
+
+    }
+
+    #tec03 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec04 {
+
+        display: none;
+
+    }
+
+    #tec05 {
+
+        display: none;
+
+    }
+
+    #tec06 {
+
+        display: none;
+
+    }
+
+    #tec07 {
+
+        display: none;
+
+    }
+
+    #mouse01{
+
+        display: none;
+
+    }
+
+    #mouse02{
+
+        display: none;
+
+    }
+
+    #mouse03{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #mouse04{
+
+        display: none;
+
+    }
+
+    #mouse05{
+
+        display: none;
+
+    }
+
+    #mouse06{
+
+        display: none;
+
+    }
+
+    #mouse07{
+
+        display: none;
+
+    }
+
+}
+
+@media (min-width: 425px) and (max-width: 768px) {
+
+    #teclado01 {
+
+        display: none;
+
+    }
+
+    #teclado02 {
+
+        display: none;
+
+    }
+
+    #teclado03 {
+
+        display: none;
+
+    }
+
+    #teclado04 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #teclado05 {
+
+        display: none;
+
+    }
+
+    #teclado06 {
+
+        display: none;
+
+    }
+
+    #teclado07 {
+
+        display: none;
+
+    }
+
+    #procesador01 {
+
+        display: none;
+
+    }
+    
+    #procesador02 {
+
+        display: none;
+
+    }
+
+    #procesador03 {
+
+        display: none;
+
+    }
+
+    #procesador04 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #procesador05 {
+
+        display: none;
+
+    }
+
+    #procesador06 {
+
+        display: none;
+
+    }
+
+    #procesador07 {
+
+        display: none;
+
+    }
+
+    #ram01{
+
+        display: none;
+
+    }
+
+    #ram02{
+
+        display: none;
+
+    }
+
+    #ram03{
+
+        display: none;
+
+    }
+    
+    #ram04{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #ram05{
+
+        display: none;
+
+    }
+
+    #ram06{
+
+        display: none;
+
+    }
+
+    #ram07{
+
+        display: none;
+
+    }
+
+    #video01{
+
+        display: none;
+
+    }
+
+    #video02{
+
+        display: none;
+
+    }
+
+    #video03{
+        
+        display: none;
+
+    }
+
+    #video04{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #video05{
+
+        display: none;
+
+    }
+
+    #video06{
+
+        display: none;
+
+    }
+
+    #video07{
+
+        display: none;
+
+    }
+
+    #disco01 {
+
+        display: none;
+
+    }
+
+    #disco02 {
+
+        display: none;
+
+    }
+
+    #disco03 {
+
+        display: none;
+
+    }
+
+    #disco04 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco05 {
+
+        display: none;
+
+    }
+
+    #disco06 {
+
+        display: none;
+
+    }
+
+    #disco07 {
+
+        display: none;
+
+    }
+
+    #case01{
+
+        display: none;
+
+    }
+
+    #case02{
+ 
+        display: none;
+
+    }
+
+    #case03{
+
+        display: none;
+
+    }
+
+    #case04{
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #case05{
+
+        display: none;
+
+    }
+
+    #case06{
+
+        display: none;
+
+    }
+
+    #case07{
+
+        display: none;
+
+    }
+
+    #monitor01 {
+
+        display: none;
+
+    }
+
+    #monitor02 {
+        
+        display: none;
+
+    }
+
+    #monitor03 {
+ 
+        display: none;
+
+    }
+
+    #monitor04 {
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor05 {
+
+        display: none;
+
+    }
+
+    #monitor06 {
+
+        display: none;
+
+    }
+
+    #monitor07 {
+
+        display: none;
+
+    }
+
+    #placa01 {
+
+        display: none;
+
+    }
+
+    #placa02 {
+
+        display: none;
+
+    }
+
+    #placa03 {
+
+        display: none;
+
+    }
+
+    #placa04 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa05 {
+
+        display: none;
+
+    }
+
+    #placa06 {
+
+        display: none;
+
+    }
+
+    #placa07 {
+
+        display: none;
+
+    }
+
+    #tec01 {
+
+        display: none;
+
+    }
+
+    #tec02 {
+
+        display: none;
+
+    }
+
+    #tec03 {
+
+        display: none;
+
+    }
+
+    #tec04 {
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec05 {
+
+        display: none;
+
+    }
+
+    #tec06 {
+
+        display: none;
+
+    }
+
+    #tec07 {
+
+        display: none;
+
+    }
+
+    #mouse01{
+
+        display: none;
+
+    }
+
+    #mouse02{
+
+        display: none;
+
+    }
+
+    #mouse03{
+
+        display: none;
+
+    }
+
+    #mouse04{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #mouse05{
+
+        display: none;
+
+    }
+
+    #mouse06{
+
+        display: none;
+
+    }
+
+    #mouse07{
+
+        display: none;
+
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    #teclado01 {
+        display: none;
+    }
+
+    #teclado02 {
+        display: none;
+    }
+
+    #teclado03 {
+        display: none;
+    }
+
+    #teclado04 {
+        display: none;
+    }
+
+    #teclado05 {
+        display: block;
+        width: 100%;
+    }
+
+    #teclado06 {
+        display: none;
+    }
+
+    #teclado07 {
+        display: none;
+    }
+
+    #procesador01 {
+        display: none;
+    }
+    
+    #procesador02 {
+        display: none;
+    }
+
+    #procesador03 {
+        display: none;
+    }
+
+    #procesador04 {
+        display: none;
+    }
+
+    #procesador05 {
+        display: block;
+        width: 100%;
+    }
+
+    #procesador06 {
+        display: none;
+    }
+
+    #procesador07 {
+        display: none;
+    }
+
+    #ram01{
+        display: none;
+    }
+
+    #ram02{
+        display: none;
+    }
+
+    #ram03{
+        display: none;
+    }
+    
+    #ram04{
+        display: none;
+    }
+
+    #ram05{
+        display: block;
+        width: 100%;
+    }
+
+    #ram06{
+        display: none;
+    }
+
+    #ram07{
+        display: none;
+    }
+
+    #video01{
+
+        display: none;
+
+    }
+
+    #video02{
+
+        display: none;
+
+    }
+
+    #video03{
+        
+        display: none;
+
+    }
+
+    #video04{
+
+        display: none;
+
+    }
+
+    #video05{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #video06{
+
+        display: none;
+
+    }
+
+    #video07{
+
+        display: none;
+
+    }
+
+    #disco01 {
+
+        display: none;
+
+    }
+
+    #disco02 {
+
+        display: none;
+
+    }
+
+    #disco03 {
+
+        display: none;
+
+    }
+
+    #disco04 {
+
+        display: none;
+
+    }
+
+    #disco05 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco06 {
+
+        display: none;
+
+    }
+
+    #disco07 {
+
+        display: none;
+
+    }
+
+    #case01{
+
+        display: none;
+
+    }
+
+    #case02{
+ 
+        display: none;
+
+    }
+
+    #case03{
+
+        display: none;
+
+    }
+
+    #case04{
+        
+        display: none;
+
+    }
+
+    #case05{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #case06{
+
+        display: none;
+
+    }
+
+    #case07{
+
+        display: none;
+
+    }
+
+    #monitor01 {
+
+        display: none;
+
+    }
+
+    #monitor02 {
+        
+        display: none;
+
+    }
+
+    #monitor03 {
+ 
+        display: none;
+
+    }
+
+    #monitor04 {
+        
+        display: none;
+
+    }
+
+    #monitor05 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor06 {
+
+        display: none;
+
+    }
+
+    #monitor07 {
+
+        display: none;
+
+    }
+
+    #placa01 {
+
+        display: none;
+
+    }
+
+    #placa02 {
+
+        display: none;
+
+    }
+
+    #placa03 {
+
+        display: none;
+
+    }
+
+    #placa04 {
+
+        display: none;
+
+    }
+
+    #placa05 {
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa06 {
+
+        display: none;
+
+    }
+
+    #placa07 {
+
+        display: none;
+
+    }
+
+    #tec01 {
+
+        display: none;
+
+    }
+
+    #tec02 {
+
+        display: none;
+
+    }
+
+    #tec03 {
+
+        display: none;
+
+    }
+
+    #tec04 {
+        
+        display: none;
+
+    }
+
+    #tec05 {
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec06 {
+
+        display: none;
+
+    }
+
+    #tec07 {
+
+        display: none;
+
+    }
+
+    #mouse01{
+
+        display: none;
+
+    }
+
+    #mouse02{
+
+        display: none;
+
+    }
+
+    #mouse03{
+
+        display: none;
+
+    }
+
+    #mouse04{
+
+        display: none;
+
+    }
+
+    #mouse05{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #mouse06{
+
+        display: none;
+
+    }
+
+    #mouse07{
+
+        display: none;
+
+    }
+
+}
+
+@media (min-width: 1025px) and (max-width: 2559px) {
+
+    #teclado01 {
+        display: none;
+    }
+
+    #teclado02 {
+        display: none;
+    }
+
+    #teclado03 {
+        display: none;
+    }
+
+    #teclado04 {
+        display: none;
+    }
+
+    #teclado05 {
+        display: none;
+    }
+
+    #teclado06 {
+        display: block;
+        width: 100%;
+    }
+
+    #teclado07 {
+        display: none;
+    }
+
+    #procesador01 {
+        display: none;
+    }
+    
+    #procesador02 {
+        display: none;
+    }
+
+    #procesador03 {
+        display: none;
+    }
+
+    #procesador04 {
+        display: none;
+    }
+
+    #procesador05 {
+        display: none;
+    }
+
+    #procesador06 {
+        display: block;
+        width: 100%;
+    }
+
+    #procesador07 {
+        display: none;
+    }
+
+    #ram01{
+        display: none;
+    }
+
+    #ram02{
+        display: none;
+    }
+
+    #ram03{
+        display: none;
+    }
+    
+    #ram04{
+        display: none;
+    }
+
+    #ram05{
+        display: none;
+    }
+
+    #ram06{
+        display: block;
+        width: 100%;
+    }
+
+    #ram07{
+        display: none;
+    }
+
+    #video01{
+
+        display: none;
+
+    }
+
+    #video02{
+
+        display: none;
+
+    }
+
+    #video03{
+        
+        display: none;
+
+    }
+
+    #video04{
+
+        display: none;
+
+    }
+
+    #video05{
+
+        display: none;
+
+    }
+
+    #video06{
+        
+        display: block;
+        width: 100%;
+
+
+    }
+
+    #video07{
+
+        display: none;
+
+    }
+
+    #disco01 {
+
+        display: none;
+
+    }
+
+    #disco02 {
+
+        display: none;
+
+    }
+
+    #disco03 {
+
+        display: none;
+
+    }
+
+    #disco04 {
+
+        display: none;
+
+    }
+
+    #disco05 {
+
+        display: none;
+
+    }
+
+    #disco06 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco07 {
+
+        display: none;
+
+    }
+
+    #case01{
+
+        display: none;
+
+    }
+
+    #case02{
+ 
+        display: none;
+
+    }
+
+    #case03{
+
+        display: none;
+
+    }
+
+    #case04{
+        
+        display: none;
+
+    }
+
+    #case05{
+
+        display: none;
+
+    }
+
+    #case06{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #case07{
+
+        display: none;
+
+    }
+
+    #monitor01 {
+
+        display: none;
+
+    }
+
+    #monitor02 {
+        
+        display: none;
+
+    }
+
+    #monitor03 {
+ 
+        display: none;
+
+    }
+
+    #monitor04 {
+        
+        display: none;
+
+    }
+
+    #monitor05 {
+
+        display: none;
+
+    }
+
+    #monitor06 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor07 {
+
+        display: none;
+
+    }
+
+    #placa01 {
+
+        display: none;
+
+    }
+
+    #placa02 {
+
+        display: none;
+
+    }
+
+    #placa03 {
+
+        display: none;
+
+    }
+
+    #placa04 {
+
+        display: none;
+
+    }
+
+    #placa05 {
+        
+        display: none;
+
+    }
+
+    #placa06 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa07 {
+
+        display: none;
+
+    }
+
+    #tec01 {
+
+        display: none;
+
+    }
+
+    #tec02 {
+
+        display: none;
+
+    }
+
+    #tec03 {
+
+        display: none;
+
+    }
+
+    #tec04 {
+        
+        display: none;
+
+    }
+
+    #tec05 {
+        
+        display: none;
+
+    }
+
+    #tec06 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec07 {
+
+        display: none;
+
+    }
+
+    #mouse01{
+
+        display: none;
+
+    }
+
+    #mouse02{
+
+        display: none;
+
+    }
+
+    #mouse03{
+
+        display: none;
+
+    }
+
+    #mouse04{
+
+        display: none;
+
+    }
+
+    #mouse05{
+
+        display: none;
+
+    }
+
+    #mouse06{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #mouse07{
+
+        display: none;
+
+    }
+
+}
+
+@media (min-width: 2560px) {
+
+    #teclado01 {
+
+        display: none;
+
+    }
+
+    #teclado02 {
+
+        display: none;
+
+    }
+
+    #teclado03 {
+
+        display: none;
+
+    }
+
+    #teclado04 {
+
+        display: none;
+
+    }
+
+    #teclado05 {
+
+        display: none;
+
+    }
+
+    #teclado06 {
+
+        display: none;
+
+    }
+
+    #teclado07 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #procesador01 {
+
+        display: none;
+
+    }
+    
+    #procesador02 {
+
+        display: none;
+
+    }
+
+    #procesador03 {
+
+        display: none;
+
+    }
+
+    #procesador04 {
+
+        display: none;
+
+    }
+
+    #procesador05 {
+
+        display: none;
+
+    }
+
+    #procesador06 {
+
+        display: none;
+
+    }
+
+    #procesador07 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #ram01{
+
+        display: none;
+
+    }
+
+    #ram02{
+
+        display: none;
+
+    }
+
+    #ram03{
+
+        display: none;
+
+    }
+    
+    #ram04{
+
+        display: none;
+
+    }
+
+    #ram05{
+
+        display: none;
+
+    }
+
+    #ram06{
+
+        display: none;
+
+    }
+
+    #ram07{
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #video01{
+
+        display: none;
+
+    }
+
+    #video02{
+
+        display: none;
+
+    }
+
+    #video03{
+        
+        display: none;
+
+    }
+
+    #video04{
+
+        display: none;
+
+    }
+
+    #video05{
+
+        display: none;
+
+    }
+
+    #video06{
+        
+        display: none;
+
+    }
+
+    #video07{
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #disco01 {
+
+        display: none;
+
+    }
+
+    #disco02 {
+
+        display: none;
+
+    }
+
+    #disco03 {
+
+        display: none;
+
+    }
+
+    #disco04 {
+
+        display: none;
+
+    }
+
+    #disco05 {
+
+        display: none;
+
+    }
+
+    #disco06 {
+
+        display: none;
+
+    }
+
+    #disco07 {
+        
+        display: block;
+        width: 100%;
+
+    }
+
+    #case01{
+
+        display: none;
+
+    }
+
+    #case02{
+ 
+        display: none;
+
+    }
+
+    #case03{
+
+        display: none;
+
+    }
+
+    #case04{
+        
+        display: none;
+
+    }
+
+    #case05{
+
+        display: none;
+
+    }
+
+    #case06{
+
+        display: none;
+
+    }
+
+    #case07{
+  
+        display: block;
+        width: 100%;
+
+    }
+
+    #monitor01 {
+
+        display: none;
+
+    }
+
+    #monitor02 {
+        
+        display: none;
+
+    }
+
+    #monitor03 {
+ 
+        display: none;
+
+    }
+
+    #monitor04 {
+        
+        display: none;
+
+    }
+
+    #monitor05 {
+
+        display: none;
+
+    }
+
+    #monitor06 {
+
+        display: none;
+
+    }
+
+    #monitor07 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #placa01 {
+
+        display: none;
+
+    }
+
+    #placa02 {
+
+        display: none;
+
+    }
+
+    #placa03 {
+
+        display: none;
+
+    }
+
+    #placa04 {
+
+        display: none;
+
+    }
+
+    #placa05 {
+        
+        display: none;
+
+    }
+
+    #placa06 {
+
+        display: none;
+
+    }
+
+    #placa07 {
+
+        display: block;
+        width: 100%;
+
+    }
+
+    #tec01 {
+
+        display: none;
+
+    }
+
+    #tec02 {
+
+        display: none;
+
+    }
+
+    #tec03 {
+
+        display: none;
+
+    }
+
+    #tec04 {
+        
+        display: none;
+
+    }
+
+    #tec05 {
+        
+        display: none;
+
+    }
+
+    #tec06 {
+
+        display: none;
+
+    }
+
+    #tec07 {
+
+        display: block;
+        width: 100%;
+
+    }
+    
+    #mouse01{
+
+        display: none;
+
+    }
+
+    #mouse02{
+
+        display: none;
+
+    }
+
+    #mouse03{
+
+        display: none;
+
+    }
+
+    #mouse04{
+
+        display: none;
+
+    }
+
+    #mouse05{
+
+        display: none;
+
+    }
+
+    #mouse06{
+
+        display: none;
+
+    }
+
+    #mouse07{
+
+        display: block;
+        width: 100%;
+
+    }
+
+}
